@@ -7,14 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1F0E90D81DD4A9B40074B86F /* madlib0_simple.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1F0E90D31DD4A9B40074B86F /* madlib0_simple.txt */; };
+		1F0E90D91DD4A9B40074B86F /* madlib1_tarzan.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1F0E90D41DD4A9B40074B86F /* madlib1_tarzan.txt */; };
+		1F0E90DA1DD4A9B40074B86F /* madlib2_university.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1F0E90D51DD4A9B40074B86F /* madlib2_university.txt */; };
+		1F0E90DB1DD4A9B40074B86F /* madlib3_clothes.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1F0E90D61DD4A9B40074B86F /* madlib3_clothes.txt */; };
+		1F0E90DC1DD4A9B40074B86F /* madlib4_dance.txt in Resources */ = {isa = PBXBuildFile; fileRef = 1F0E90D71DD4A9B40074B86F /* madlib4_dance.txt */; };
+		1F0E90DE1DD4A9BC0074B86F /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0E90DD1DD4A9BC0074B86F /* Story.swift */; };
 		1FBD77D41DD1EEB600CFD80E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FBD77D31DD1EEB600CFD80E /* AppDelegate.swift */; };
 		1FBD77D61DD1EEB600CFD80E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FBD77D51DD1EEB600CFD80E /* ViewController.swift */; };
 		1FBD77D91DD1EEB600CFD80E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FBD77D71DD1EEB600CFD80E /* Main.storyboard */; };
 		1FBD77DB1DD1EEB600CFD80E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1FBD77DA1DD1EEB600CFD80E /* Assets.xcassets */; };
 		1FBD77DE1DD1EEB600CFD80E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1FBD77DC1DD1EEB600CFD80E /* LaunchScreen.storyboard */; };
+		1FBD77E61DD1EF0800CFD80E /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FBD77E51DD1EF0800CFD80E /* ViewController2.swift */; };
+		1FBD77E81DD1EF8300CFD80E /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FBD77E71DD1EF8300CFD80E /* ViewController3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1F0E90D31DD4A9B40074B86F /* madlib0_simple.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = madlib0_simple.txt; sourceTree = "<group>"; };
+		1F0E90D41DD4A9B40074B86F /* madlib1_tarzan.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = madlib1_tarzan.txt; sourceTree = "<group>"; };
+		1F0E90D51DD4A9B40074B86F /* madlib2_university.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = madlib2_university.txt; sourceTree = "<group>"; };
+		1F0E90D61DD4A9B40074B86F /* madlib3_clothes.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = madlib3_clothes.txt; sourceTree = "<group>"; };
+		1F0E90D71DD4A9B40074B86F /* madlib4_dance.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = madlib4_dance.txt; sourceTree = "<group>"; };
+		1F0E90DD1DD4A9BC0074B86F /* Story.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
 		1FBD77D01DD1EEB600CFD80E /* joelfleuren-pset2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "joelfleuren-pset2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FBD77D31DD1EEB600CFD80E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1FBD77D51DD1EEB600CFD80E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +36,8 @@
 		1FBD77DA1DD1EEB600CFD80E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1FBD77DD1DD1EEB600CFD80E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1FBD77DF1DD1EEB600CFD80E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1FBD77E51DD1EF0800CFD80E /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController2.swift; path = ../ViewController2.swift; sourceTree = "<group>"; };
+		1FBD77E71DD1EF8300CFD80E /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,8 +70,16 @@
 		1FBD77D21DD1EEB600CFD80E /* joelfleuren-pset2 */ = {
 			isa = PBXGroup;
 			children = (
+				1F0E90D31DD4A9B40074B86F /* madlib0_simple.txt */,
+				1F0E90D41DD4A9B40074B86F /* madlib1_tarzan.txt */,
+				1F0E90D51DD4A9B40074B86F /* madlib2_university.txt */,
+				1F0E90D61DD4A9B40074B86F /* madlib3_clothes.txt */,
+				1F0E90D71DD4A9B40074B86F /* madlib4_dance.txt */,
+				1F0E90DD1DD4A9BC0074B86F /* Story.swift */,
 				1FBD77D31DD1EEB600CFD80E /* AppDelegate.swift */,
 				1FBD77D51DD1EEB600CFD80E /* ViewController.swift */,
+				1FBD77E51DD1EF0800CFD80E /* ViewController2.swift */,
+				1FBD77E71DD1EF8300CFD80E /* ViewController3.swift */,
 				1FBD77D71DD1EEB600CFD80E /* Main.storyboard */,
 				1FBD77DA1DD1EEB600CFD80E /* Assets.xcassets */,
 				1FBD77DC1DD1EEB600CFD80E /* LaunchScreen.storyboard */,
@@ -124,7 +148,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				1FBD77DE1DD1EEB600CFD80E /* LaunchScreen.storyboard in Resources */,
+				1F0E90DB1DD4A9B40074B86F /* madlib3_clothes.txt in Resources */,
+				1F0E90D91DD4A9B40074B86F /* madlib1_tarzan.txt in Resources */,
 				1FBD77DB1DD1EEB600CFD80E /* Assets.xcassets in Resources */,
+				1F0E90D81DD4A9B40074B86F /* madlib0_simple.txt in Resources */,
+				1F0E90DA1DD4A9B40074B86F /* madlib2_university.txt in Resources */,
+				1F0E90DC1DD4A9B40074B86F /* madlib4_dance.txt in Resources */,
 				1FBD77D91DD1EEB600CFD80E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,6 +167,9 @@
 			files = (
 				1FBD77D61DD1EEB600CFD80E /* ViewController.swift in Sources */,
 				1FBD77D41DD1EEB600CFD80E /* AppDelegate.swift in Sources */,
+				1FBD77E81DD1EF8300CFD80E /* ViewController3.swift in Sources */,
+				1FBD77E61DD1EF0800CFD80E /* ViewController2.swift in Sources */,
+				1F0E90DE1DD4A9BC0074B86F /* Story.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +331,7 @@
 				1FBD77E41DD1EEB600CFD80E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
