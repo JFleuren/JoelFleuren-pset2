@@ -9,14 +9,14 @@
 import UIKit
 
 class ViewController3: UIViewController {
-    
+    // make a madlibtext
     var madLibText = ""
     
     @IBOutlet weak var storytext: UITextView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        // set the text in the text view
         storytext.text = madLibText
         
         // Do any additional setup after loading the view.
