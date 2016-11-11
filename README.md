@@ -1,9 +1,9 @@
 Joël Fleuren
 
-mr.potatohead
-
-de mogelijkheid om mr.potatohead compleet te maken doormiddel van de switches aan te zetten worden de lichaamsdelen toegevoegd aan de body als ze weer uitgzet worden, worden ze geweizigd
+Madlibs
+deze app vraag om input van de user als alle input is gegeven wordt de input in de text geplaatst en kan het gelezen worden. Welke text de user moet invoeren is random
 
 The screenshots
-![alt text](doc/01.png)
-![alt text](/doc/02.png)
+![alt text](doc/1.png)
+![alt text](/doc/2.png)
+![alt text](/doc/3.png)
